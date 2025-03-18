@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/killerwilmer/react/static/css/main.008f6a53.css",
-    "main.js": "/killerwilmer/react/static/js/main.0e5afb67.js",
-    "index.html": "/killerwilmer/react/index.html",
-    "static/media/delete.svg": "/killerwilmer/react/static/media/delete.1daedad446bed51a6098583b00ccc792.svg",
-    "static/media/check.svg": "/killerwilmer/react/static/media/check.c9ffe4c31cb08d5a37e005173ddeebc8.svg",
-    "main.008f6a53.css.map": "/killerwilmer/react/static/css/main.008f6a53.css.map",
-    "main.0e5afb67.js.map": "/killerwilmer/react/static/js/main.0e5afb67.js.map"
+    "main.css": "/react/static/css/main.008f6a53.css",
+    "main.js": "/react/static/js/main.e8e51ed4.js",
+    "index.html": "/react/index.html",
+    "static/media/delete.svg": "/react/static/media/delete.1daedad446bed51a6098583b00ccc792.svg",
+    "static/media/check.svg": "/react/static/media/check.c9ffe4c31cb08d5a37e005173ddeebc8.svg",
+    "main.008f6a53.css.map": "/react/static/css/main.008f6a53.css.map",
+    "main.e8e51ed4.js.map": "/react/static/js/main.e8e51ed4.js.map"
   },
   "entrypoints": [
     "static/css/main.008f6a53.css",
-    "static/js/main.0e5afb67.js"
+    "static/js/main.e8e51ed4.js"
   ]
 }
