@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/killerwilmer/react/tree/main/react-base/static/css/main.008f6a53.css",
+    "main.js": "/killerwilmer/react/tree/main/react-base/static/js/main.70c59254.js",
+    "index.html": "/killerwilmer/react/tree/main/react-base/index.html",
+    "static/media/delete.svg": "/killerwilmer/react/tree/main/react-base/static/media/delete.1daedad446bed51a6098583b00ccc792.svg",
+    "static/media/check.svg": "/killerwilmer/react/tree/main/react-base/static/media/check.c9ffe4c31cb08d5a37e005173ddeebc8.svg",
+    "main.008f6a53.css.map": "/killerwilmer/react/tree/main/react-base/static/css/main.008f6a53.css.map",
+    "main.70c59254.js.map": "/killerwilmer/react/tree/main/react-base/static/js/main.70c59254.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.008f6a53.css",
+    "static/js/main.70c59254.js"
+  ]
+}
