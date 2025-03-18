@@ -28,7 +28,7 @@ function TodoProvider({ children }) {
       completed: false,
     });
     saveTodos(newTodos);
-  }
+  };
 
   const completeTodo = (text) => {
     const newTodos = [...todos];
@@ -58,7 +58,7 @@ function TodoProvider({ children }) {
         deleteTodo,
         openModal,
         setOpenModal,
-        addTodo
+        addTodo,
       }}
     >
       {children}
