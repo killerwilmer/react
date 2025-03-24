@@ -1,12 +1,10 @@
-import { StaticComponent } from "./componets/StaticComponent/StaticComponent";
-import { UserListLoading } from "./componets/UserListLoading/UserListLoading";
+import { SearchPosts } from "./componets/SearchPosts/SearchPosts";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <StaticComponent />
-      <UserListLoading />
+      <SearchPosts />
     </>
   );
 }
