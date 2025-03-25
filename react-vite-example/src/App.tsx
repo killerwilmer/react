@@ -1,11 +1,12 @@
-import { Counter } from "./componets/Counter/Counter";
 import "./App.css";
+import { ThemeProvider } from "./componets/Context/ThemeContext";
+import { ThemeButton } from "./componets/ThemeButton/ThemeButton";
 
 function App() {
   return (
-    <>
-      <Counter />
-    </>
+    <ThemeProvider>
+      <ThemeButton />
+    </ThemeProvider>
   );
 }
 
