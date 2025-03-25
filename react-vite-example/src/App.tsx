@@ -1,10 +1,10 @@
-import { SearchPosts } from "./componets/SearchPosts/SearchPosts";
+import { Counter } from "./componets/Counter/Counter";
 import "./App.css";
 
 function App() {
   return (
     <>
-      <SearchPosts />
+      <Counter />
     </>
   );
 }
