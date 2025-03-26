@@ -1,9 +1,9 @@
-import { CounterCustomHook } from "./componets/CounterCustomHook/CounterCustomHook";
+import { CounterMemo } from "./componets/CounterMemo/CounterMemo";
 import "./App.css";
 
 function App() {
   return (
-    <CounterCustomHook />
+    <CounterMemo />
   );
 }
 
