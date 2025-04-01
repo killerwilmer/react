@@ -1,9 +1,13 @@
-import { CounterMemo } from "./componets/CounterMemo/CounterMemo";
+import { ButtonTypes } from "./componets/ButtonTypes/ButtonTypes";
 import "./App.css";
 
 function App() {
+  const handleClick = () => {
+    alert("clicked");
+  }
+
   return (
-    <CounterMemo />
+    <ButtonTypes onclick={handleClick} label="Click" />
   );
 }
 
